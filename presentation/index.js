@@ -126,12 +126,14 @@ export default class Presentation extends React.Component {
             <ListItem>Your pull request is merged!</ListItem>
           </List>
         </Slide>
+
         <Slide transition={["fade"]} bgColor="primary" textColor="secondary">
           <Heading>Attendance</Heading>
           <List>
             <ListItem>Burhan Khalid (burhan.khalid@gmail.com)</ListItem>
             <ListItem>Aziz Alsaffar (alsaff1987@gmail.com)</ListItem>
             <ListItem>Mohammed Abdul Shoeb (all4shoeb@gmail.com)</ListItem>
+            <ListItem>Seham Eldeen (sehameldeen1997@gmail.com)</ListItem>
           </List>
         </Slide>
       </Deck>
