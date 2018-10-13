@@ -1,4 +1,3 @@
-
 // Import React
 import React from "react";
 
@@ -134,11 +133,9 @@ export default class Presentation extends React.Component {
             <ListItem>Burhan Khalid (burhan.khalid@gmail.com)</ListItem>
             <ListItem>Aziz Alsaffar (alsaff1987@gmail.com)</ListItem>
             <ListItem>Seham Eldeen (sehameldeen1997@gmail.com)</ListItem>
-
           </List>
         </Slide>
       </Deck>
     );
   }
 }
-
