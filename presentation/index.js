@@ -98,6 +98,12 @@ export default class Presentation extends React.Component {
             <ListItem><em>Beat</em> beat everyone to it</ListItem>
             <ListItem>Wait</ListItem
           </List>
+      <Slide transition={["fade"]} bgColor="primary" textColor="secondary">
+          <Heading>Attendance</Heading>
+          <List>
+            <ListItem>Sadeq(########@gmail.com)</ListItem>
+          </List>
+        </Slide>
         </Slide>
       </Deck>
     );
