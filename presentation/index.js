@@ -131,6 +131,8 @@ export default class Presentation extends React.Component {
           <List>
             <ListItem>Ghanim Aldosari (mr.gh89@gmail.com)</ListItem>
             <ListItem>...</ListItem>
+            <ListItem>...</ListItem>
+            <ListItem>...</ListItem>
           </List>
         </Slide>
       </Deck>
