@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Import React
 import React from "react";
 
@@ -93,10 +94,8 @@ export default class Presentation extends React.Component {
         <Slide transition={["fade"]} bgColor="primary" textColor="secondary">
           <Heading>Attendance</Heading>
           <List>
-<<<<<<< HEAD
-=======
             <ListItem>Burhan Khalid (burhan.khalid@gmail.com)</ListItem>
->>>>>>> mrmmm-added
+            <ListItem>Aziz Alsaffar (alsaff1987@gmail.com)</ListItem>
             <ListItem>Mohammad Almeer (mohammad.almeer@gmail.com)</ListItem>
           </List>
         </Slide>
