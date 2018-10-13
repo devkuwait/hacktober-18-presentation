@@ -126,14 +126,14 @@ export default class Presentation extends React.Component {
             <ListItem>Your pull request is merged!</ListItem>
           </List>
         </Slide>
-      </Slide>
         <Slide transition={["fade"]} bgColor="primary" textColor="secondary">
           <Heading>Contributing - Step 4</Heading>
           <List>
             <ListItem><em>Add</em> add a slide</ListItem>
             <ListItem><em>Beat</em> beat everyone to it</ListItem>
-            <ListItem>Wait</ListItem
+            <ListItem>Wait</ListItem>
           </List>
+        </Slide>
       <Slide transition={["fade"]} bgColor="primary" textColor="secondary">
           <Heading>Attendance</Heading>
           <List>
@@ -143,6 +143,7 @@ export default class Presentation extends React.Component {
             <ListItem>Mohammed Abdul Shoeb (all4shoeb@gmail.com)</ListItem>
             <ListItem>Seham Eldeen (sehameldeen1997@gmail.com)</ListItem>
             <ListItem>Nasser B. AL-Ostath (mushin.art@gmail.com)</ListItem>
+            <ListItem>Ghanim Aldosari (mr.gh89@gmail.com)</ListItem>
           </List>
         </Slide>
       </Deck>
