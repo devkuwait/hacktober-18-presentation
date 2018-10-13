@@ -90,6 +90,15 @@ export default class Presentation extends React.Component {
             <ListItem>Your pull request is merged!</ListItem>
           </List>
         </Slide>
+      </Slide>
+        <Slide transition={["fade"]} bgColor="primary" textColor="secondary">
+          <Heading>Contributing - Step 4</Heading>
+          <List>
+            <ListItem><em>Add</em> add a slide</ListItem>
+            <ListItem><em>Beat</em> beat everyone to it</ListItem>
+            <ListItem>Wait</ListItem
+          </List>
+        </Slide>
       </Deck>
     );
   }
