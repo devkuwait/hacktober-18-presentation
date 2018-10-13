@@ -1,3 +1,4 @@
+
 // Import React
 import React from "react";
 
@@ -126,6 +127,12 @@ export default class Presentation extends React.Component {
             <ListItem>Your pull request is merged!</ListItem>
           </List>
         </Slide>
+      <Slide transition={["fade"]} bgColor="primary" textColor="secondary">
+          <Heading>Attendance</Heading>
+          <List>
+            <ListItem>Burhan Khalid (burhan.khalid@gmail.com)</ListItem>
+          </List>
+        </Slide>
         <Slide transition={["fade"]} bgColor="primary" textColor="secondary">
           <Heading>Attendance</Heading>
           <List>
@@ -136,3 +143,4 @@ export default class Presentation extends React.Component {
     );
   }
 }
+
