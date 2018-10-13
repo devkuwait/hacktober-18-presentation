@@ -93,7 +93,7 @@ export default class Presentation extends React.Component {
         <Slide transition={["fade"]} bgColor="primary" textColor="secondary">
           <Heading>Attendance</Heading>
           <List>
-            <ListItem>Burhan Khalid (burhan.khalid@gmail.com)</ListItem>
+            <ListItem>Mohammad Almeer (mohammad.almeer@gmail.com)</ListItem>
           </List>
         </Slide>
       </Deck>
