@@ -84,10 +84,9 @@ export default class Presentation extends React.Component {
         <Slide transition={["fade"]} bgColor="primary" textColor="secondary">
           <Heading>Contributing - Step 3</Heading>
           <List>
-            <ListItem><em>push</em> changes to your fork, by creating a new branch</ListItem>
-            <ListItem>Create a <em>pull request</em> against the original repository</ListItem>
-            <ListItem>Wait till your pull request is approved / reviewed</ListItem>
-            <ListItem>Your pull request is merged!</ListItem>
+            <ListItem>Burhan Khalid (burhan.khalid@gmail.com)</ListItem>
+
+            <ListItem>OMAR HODROB (info@omarhodrob.com)</ListItem>
           </List>
         </Slide>
       </Deck>
