@@ -144,6 +144,7 @@ export default class Presentation extends React.Component {
             <ListItem>Seham Eldeen (sehameldeen1997@gmail.com)</ListItem>
             <ListItem>Nasser B. AL-Ostath (mushin.art@gmail.com)</ListItem>
             <ListItem>Ghanim Aldosari (mr.gh89@gmail.com)</ListItem>
+            <ListItem>AJ Al-Kandari (abdulmuhsin.alkandari@gmail.com)</ListItem>
           </List>
         </Slide>
       </Deck>
