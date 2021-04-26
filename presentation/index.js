@@ -104,6 +104,7 @@ export default class Presentation extends React.Component {
             <ListItem>Sadeq(########@gmail.com)</ListItem>
             <ListItem>Burhan Khalid (burhan.khalid@gmail.com)</ListItem>
             <ListItem>Aziz Alsaffar (alsaff1987@gmail.com)</ListItem>
+            <ListItem>Hamad AlGhanim (hamad.y.alghanim@gmail.com)</ListItem>
             <ListItem>Mohammad Almeer (mohammad.almeer@gmail.com)</ListItem>
             <ListItem>Mohammed Abdul Shoeb (all4shoeb@gmail.com)</ListItem>
             <ListItem>Seham Eldeen (sehameldeen1997@gmail.com)</ListItem>
